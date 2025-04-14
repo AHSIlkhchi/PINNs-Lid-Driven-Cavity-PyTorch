@@ -56,7 +56,7 @@ Flow Visualization: Contour plots of velocity magnitude with streamlines.
 
 # How to Run
 Clone the repository:
-git clone https://github.com/YOUR_USERNAME/PINNs-Lid-Driven-Cavity
+git clone https://github.com/AHSIlkhchi/PINNs-Lid-Driven-Cavity-PyTorch
 
 Install dependencies:
 pip install torch numpy matplotlib seaborn
